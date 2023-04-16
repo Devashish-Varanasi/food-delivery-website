@@ -1,0 +1,32 @@
+#container{
+    margin: 34px;
+    display: flex;
+}
+#container .box1{
+    border: 2px solid brown;
+    padding: 20px;
+    margin: 5px 20px;
+    border-radius: 28px;
+}
+#container .box2{
+    border: 2px solid brown;
+    padding: 20px;
+    margin: 5px 20px;
+    border-radius: 28px;
+}
+#container .box3{
+    border: 2px solid brown;
+    padding: 20px;
+    margin: 5px 20px;
+    border-radius: 28px;
+}
+#container .box4{
+    border: 2px solid brown;
+    padding: 20px;
+    margin: 5px 20px;
+    border-radius: 28px;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
